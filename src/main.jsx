@@ -10,6 +10,5 @@ createRoot(document.getElementById('root')).render(
      <AlertButton text="click" message="Button clicked"/>
      <DaftarNama />
     <App />
-    
   </StrictMode>,
 )
