@@ -7,9 +7,8 @@ import DaftarNama from "./components/DaftarNama/DaftarNama.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <App>
       <AlertButton text="click" message="Button clicked" />
       <DaftarNama />
-    </App>
+    <App />
   </StrictMode>,
 );
